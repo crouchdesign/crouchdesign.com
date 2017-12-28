@@ -1,0 +1,64 @@
+<manifest alg="2" build="751" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3855395363"/>
+    <file name="master_a-master.css" crc="4048335272" ref="contact:index:philosophy:portfolio:resume"/>
+    <file name="contact.css" crc="4029318693" ref="contact"/>
+    <file name="index.css" crc="3967710627" ref="index"/>
+    <file name="philosophy.css" crc="4184733033" ref="philosophy"/>
+    <file name="portfolio.css" crc="4284462265" ref="portfolio"/>
+    <file name="resume.css" crc="3795545188" ref="resume"/>
+  </folder>
+  <folder name="assets">
+    <file name="crouch_shawna_portfolio.pdf" crc="85061570" mt="1370570376000"/>
+    <file name="crouch_shawna_resume.pdf" crc="4176582863" mt="1371673543000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:philosophy:resume:portfolio:contact"/>
+    <file name="museutils.js" crc="3885830161" ref="index:philosophy:resume:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:philosophy:resume:portfolio:contact"/>
+    <file name="webpro.js" crc="4369767" ref="portfolio"/>
+    <file name="musewpslideshow.js" crc="83045620" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="3925244142" ref="portfolio"/>
+    <file name="touchswipe.js" crc="261777990" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3823736506" ref="index:philosophy:resume:portfolio:contact"/>
+    <file name="u221-4.png" crc="61219866" ref="index:philosophy:resume:portfolio:contact"/>
+    <file name="u222-4.png" crc="216290537" ref="index:philosophy:resume:portfolio:contact"/>
+    <file name="u223-4.png" crc="4043491903" ref="index:philosophy:resume:portfolio:contact"/>
+    <file name="u764-4.png" crc="3767958759" ref="index:philosophy:resume:portfolio:contact"/>
+    <file name="dot_banner.gif" crc="3886284011" ref="index:philosophy:resume:portfolio:contact"/>
+    <file name="u756-4.png" crc="186979325" ref="index"/>
+    <file name="u837-4.png" crc="4042769359" ref="resume"/>
+    <file name="u839-4.png" crc="380837420" ref="resume"/>
+    <file name="u841-4.png" crc="4028015036" ref="resume"/>
+    <file name="compression_2_final1.png" crc="290668422" ref="portfolio"/>
+    <file name="blank.gif" crc="4208392903" ref="portfolio"/>
+    <file name="brain_shopping.jpg" crc="4143997284" ref="portfolio"/>
+    <file name="omas86_rework.jpg" crc="3877502496" ref="portfolio"/>
+    <file name="omas92.jpg" crc="308573003" ref="portfolio"/>
+    <file name="quote1.jpg" crc="267766167" ref="portfolio"/>
+    <file name="simply_sushi_brown.jpg" crc="408191555" ref="portfolio"/>
+    <file name="simply_sushi_green.jpg" crc="367127592" ref="portfolio"/>
+    <file name="simply_sushi_red.jpg" crc="4134745127" ref="portfolio"/>
+    <file name="tea-box.jpg" crc="3857312788" ref="portfolio"/>
+    <file name="kids-meal-bag.jpg" crc="4174315755" ref="portfolio"/>
+    <file name="compression_2_final160x60.png" crc="311408333" ref="portfolio"/>
+    <file name="brain_shopping60x80.jpg" crc="4044478708" ref="portfolio"/>
+    <file name="omas86_rework60x60.jpg" crc="309664614" ref="portfolio"/>
+    <file name="omas9260x60.jpg" crc="442534036" ref="portfolio"/>
+    <file name="quote160x60.jpg" crc="3792845512" ref="portfolio"/>
+    <file name="simply_sushi_brown60x60.jpg" crc="3935111787" ref="portfolio"/>
+    <file name="simply_sushi_green60x60.jpg" crc="4008087521" ref="portfolio"/>
+    <file name="simply_sushi_red60x60.jpg" crc="4256619990" ref="portfolio"/>
+    <file name="tea-box70x45.jpg" crc="105477181" ref="portfolio"/>
+    <file name="kids-meal-bag69x45.jpg" crc="535884904" ref="portfolio"/>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="u875-4.png" crc="4294201024" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="4051432443" mt="1381797134405"/>
+  <file name="philosophy.html" crc="48295432" mt="1381797134415"/>
+  <file name="resume.html" crc="4163740448" mt="1381797134409"/>
+  <file name="portfolio.html" crc="136006916" mt="1381797134410"/>
+  <file name="contact.html" crc="4179271132" mt="1381797134411"/>
+</manifest>

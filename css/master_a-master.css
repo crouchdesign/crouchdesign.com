@@ -1,0 +1,16 @@
+#u199_clip
+{
+	overflow: hidden;
+}
+
+#u221-4_img,#u222-4_img,#u223-4_img,#u764-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u199,#u221-4,#u222-4,#u223-4,#u764-4,#u730
+{
+	position: relative;
+}
+
